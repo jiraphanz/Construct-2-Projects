@@ -1,5 +1,5 @@
 ## Construct-2-Projects
-โปรเจ็ควิชา การสร้างเกมคอมพิวเตอร์เบื้องต้น จากโปรแกรม Construct 2 Voc. Cert. in Information Technology, TATC
+รายชื่อเกมที่เคยทำ
 
 ### PJNGAI-adventure-V-0.1
 เกมผจญภัยแนวนอนสร้างจากโปรแกรม Construct 2 เป็นเกมกระโดดผ่านด่านธรรมดาให้ถึงจุดหมาย
