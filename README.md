@@ -8,6 +8,6 @@
 
 
 ### Alternative Download
-ถ้าไม่สามารถดาวน์โหลดไฟล์เกมได้หรือโหลดมาเล่นไม่ได้ให้โหลดโดยใช้ลิงค์นี้แทน
+สามารถดาวน์โหลดไฟล์เกมมาทดลองเล่นได้จากลิงค์ข้างล่าง
 [Mediafire](https://www.mediafire.com/file/w7rhuoq3l1y9duv/Construct-2-Projects-main.rar/file).
 
