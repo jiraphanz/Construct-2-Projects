@@ -9,5 +9,5 @@
 
 ### Download Link
 สามารถดาวน์โหลดไฟล์เกมมาทดลองเล่นได้จากลิงค์ข้างล่าง
-[Mediafire](https://www.mediafire.com/file/w7rhuoq3l1y9duv/Construct-2-Projects-main.rar/file).
+[GoogleDrive](https://drive.google.com/file/d/1f8hSyMv5BuGKPSdMzeJrOaj4rWJd5yQq).
 
